@@ -59,7 +59,7 @@ class Cat extends Animal {
 // --------------------
 // MAIN CLASS
 // --------------------
-public class OOPDemo {
+public class OOPSSimpleDemo {
 
     public static void main(String[] args) {
 
